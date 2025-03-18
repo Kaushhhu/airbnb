@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 const mongoose = require("mongoose");
-const Listing = require("C://Kaushalya//MAJORPROJECT//models//listing");
+const Listing = require("./models/listing.js");
 const path = require ("path");
 const methodOverride = require("method-override");
 const ejsMate = require("ejs-mate");
@@ -38,7 +38,7 @@ app.get("/", (req, res) => {
 //Index route
 app.get("/listings", async (req, res) => {
   const allListings = await  Listing.find({});
-  res.render("C:/Kaushalya/MAJORPROJECT/views/listings", {allListings}); 
+  res.render("listings/index.ejs", {allListings}); 
 });
 
 //New route 
