@@ -2,7 +2,7 @@ const sampleListings = [
     {
       "title": "Serenity Beachfront Villa",
       "description": "A luxurious beachfront villa with breathtaking views of the ocean, offering privacy, comfort, and easy access to pristine beaches. Ideal for a relaxing getaway.",
-      "image": "https://www.google.com/imgres?q=unsplash%20villa&imgurl=https%3A%2F%2Fplus.unsplash.com%2Fpremium_photo-1682377521625-c656fc1ff3e1%3Ffm%3Djpg%26q%3D60%26w%3D3000%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8MTN8fHZpbGxhfGVufDB8fDB8fHww&imgrefurl=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fvilla&docid=XEPK3FQUeR-6lM&tbnid=xR7xpQVc8r7CWM&vet=12ahUKEwjc0vTS4v-LAxVmmq8BHVRuHm8QM3oECBcQAA..i&w=3000&h=2000&hcb=2&ved=2ahUKEwjc0vTS4v-LAxVmmq8BHVRuHm8QM3oECBcQAA",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=1200",
       "price": 450,
       "location": "Bora Bora, Tahiti",
       "country": "French Polynesia"
@@ -10,7 +10,7 @@ const sampleListings = [
     {
       "title": "Mountain View Estate",
       "description": "Nestled in the heart of the Swiss Alps, this villa offers stunning panoramic mountain views, an infinity pool, and spacious living areas for the ultimate luxury retreat.",
-      "image": "https://www.google.com/imgres?q=unsplash%20villa&imgurl=https%3A%2F%2Fplus.unsplash.com%2Fpremium_photo-1682377521753-58d1fd9fa5ce%3Ffm%3Djpg%26q%3D60%26w%3D3000%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8NXx8bHV4dXJ5JTIwdmlsbGF8ZW58MHx8MHx8fDA%253D&imgrefurl=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fluxury-villa&docid=Mo1MYZ5cQ76iDM&tbnid=AHZg8ql_il5CpM&vet=12ahUKEwjc0vTS4v-LAxVmmq8BHVRuHm8QM3oECBUQAA..i&w=3000&h=2000&hcb=2&ved=2ahUKEwjc0vTS4v-LAxVmmq8BHVRuHm8QM3oECBUQAA",
+      "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6",
       "price": 700,
       "location": "Zermatt, Valais",
       "country": "Switzerland"

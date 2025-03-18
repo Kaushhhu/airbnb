@@ -9,9 +9,9 @@ const listingSchema = new Schema({
     description: String,
     image:{
        type: String,
-       default:"https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fvilla&psig=AOvVaw3bQBsYXopLRSC3v8O9aexo&ust=1741699136162000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDwlYTN_4sDFQAAAAAdAAAAABAE" ,
+       default:"https://images.unsplash.com/photo-1564013799919-ab600027ffc6" ,
        set: (v) => v === ""
-        ? "https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fvilla&psig=AOvVaw3bQBsYXopLRSC3v8O9aexo&ust=1741699136162000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDwlYTN_4sDFQAAAAAdAAAAABAE"
+        ? "https://images.unsplash.com/photo-1564013799919-ab600027ffc6"
         : v, 
     },
     price: Number,
