@@ -18,7 +18,7 @@ const sampleListings = [
     {
       "title": "Villa Toscana",
       "description": "An elegant villa set in the rolling hills of Tuscany, Italy, featuring a private garden, vineyard, and rustic charm combined with modern amenities.",
-      "image": "https://www.google.com/imgres?q=unsplash%20villa&imgurl=https%3A%2F%2Fplus.unsplash.com%2Fpremium_photo-1682377521697-bc598b52b08a%3Ffm%3Djpg%26q%3D60%26w%3D3000%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8NXx8dmlsbGF8ZW58MHx8MHx8fDA%253D&imgrefurl=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fvilla&docid=XEPK3FQUeR-6lM&tbnid=XM9DvstjFkHDUM&vet=12ahUKEwjc0vTS4v-LAxVmmq8BHVRuHm8QM3oECE0QAA..i&w=3000&h=1903&hcb=2&ved=2ahUKEwjc0vTS4v-LAxVmmq8BHVRuHm8QM3oECE0QAA",
+      "image": "/images/airbnb1.jpg",
       "price": 550,
       "location": "Florence, Tuscany",
       "country": "Italy"
